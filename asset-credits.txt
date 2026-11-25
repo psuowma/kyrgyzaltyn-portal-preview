@@ -1,0 +1,31 @@
+ASSET CREDITS
+
+Corporate emblem: supplied by the project owner as 01_Corporate_Brand/logo short.svg.
+public/branding/kyrgyzaltyn-mark.svg is a byte-for-byte copy. Original proportions and colors preserved.
+Corporate logo rights remain with ОАО «Кыргызалтын».
+
+Current mountain photo: "Khan Tengri Peak and Chapaev Peak at sunset from South Engilchek Base Camp, Tengri-Tag ridge, Central Tian Shan, Kyrgyzstan.jpg"
+Photographer: Maryliflower
+Source: https://commons.wikimedia.org/wiki/File:Khan_Tengri_Peak_and_Chapaev_Peak_at_sunset_from_South_Engilchek_Base_Camp,_Tengri-Tag_ridge,_Central_Tian_Shan,_Kyrgyzstan.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Changes: resized to 1920x1279 and 960x639, converted to WebP. Displayed with partial desaturation, navy overlay and CSS masks.
+Files: /images/khan-tengri-1920.webp and /images/khan-tengri-960.webp
+The distributed mountain image derivatives remain licensed under CC BY-SA 4.0.
+The photographer does not endorse this website.
+
+Previous mountain photo (retained only in historical review screenshots): "Snow-covered peaks near the Southern Inylchek Glacier, Khan Tengri Nature Park, Tien Shan.jpg"
+Photographer: Maryliflower
+Source: https://commons.wikimedia.org/wiki/File:Snow-covered_peaks_near_the_Southern_Inylchek_Glacier,_Khan_Tengri_Nature_Park,_Tien_Shan.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Changes: resized to 1920x1280 and 960x640, converted to WebP. Displayed with grayscale, navy overlay and CSS masks.
+The distributed mountain image derivatives remain licensed under CC BY-SA 4.0.
+The photographer does not endorse this website.
+
+Manrope: Mikhail Sharanda, Mirko Velimirovic and contributors. SIL Open Font License 1.1.
+Source: https://github.com/google/fonts/tree/main/ofl/manrope
+License: /fonts/OFL.txt
+Locally hosted variable Cyrillic and Latin WOFF2 subsets from Google Fonts.
+
+Lucide: https://lucide.dev/ — ISC License. See the installed lucide-react package license.
